@@ -1,7 +1,7 @@
 import sqlite3
 import Time
 
-check = 0
+ckeck = 1
 method = '0'
 conn = sqlite3.connect("app.db")
 c = conn.cursor()
